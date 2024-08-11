@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/nehagjr](github.com/nehagjr)
 
-- 💬 Ask me about **Python, React, JavaScript, HTML, CSS, Django, C++, DSA**
+- 💬 Ask me about **Python, React, JavaScript, HTML, CSS, Django, C++, DSA, Numpy, Pandas, Excel**
 
 - 📫 How to reach me **pneha3169@gmail.com**
 
