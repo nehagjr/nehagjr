@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lone Data Analysis](https://github.com/nehagjr/Python-loan_project)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, API**
 
 - 👨‍💻 All of my projects are available at [github.com/nehagjr](github.com/nehagjr)
 
